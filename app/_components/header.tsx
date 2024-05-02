@@ -4,7 +4,7 @@ import { Button } from "./ui/button";
 
 const Header = () => {
 	return (
-		<div className="flex justify-between pt-6 px-5">
+		<div className="flex justify-between px-5 pt-6">
 			<Image src="/logo.png" alt="logo" width={100} height={30} />
 			<Button
 				size="icon"
